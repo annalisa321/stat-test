@@ -22,6 +22,5 @@ Il progetto è stato realizzato utilizzando il linguaggio di programmazione **R*
 - **dplyr**: per la manipolazione dei dati
 - **PerformanceAnalytics**: per l'analisi delle correlazioni
 - **AICcmodavg**: per il confronto tra modelli
-- **glmnet**: per l'analisi tramite modelli di regressione penalizzata
 - **Metrics**: per la valutazione delle prestazioni del modello
 - **data.table**: per la gestione dei dati ad alte prestazioni
